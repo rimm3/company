@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\maytinh\maytinh\bin\Debug\maytinh.exe.config
+C:\Users\PC\source\repos\maytinh\maytinh\bin\Debug\maytinh.exe
+C:\Users\PC\source\repos\maytinh\maytinh\bin\Debug\maytinh.pdb
+C:\Users\PC\source\repos\maytinh\maytinh\obj\Debug\maytinh.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\maytinh\maytinh\obj\Debug\maytinh.Form1.resources
+C:\Users\PC\source\repos\maytinh\maytinh\obj\Debug\maytinh.Properties.Resources.resources
+C:\Users\PC\source\repos\maytinh\maytinh\obj\Debug\maytinh.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\maytinh\maytinh\obj\Debug\maytinh.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\maytinh\maytinh\obj\Debug\maytinh.exe
+C:\Users\PC\source\repos\maytinh\maytinh\obj\Debug\maytinh.pdb
